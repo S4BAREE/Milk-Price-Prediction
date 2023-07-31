@@ -25,3 +25,4 @@ The following findings were made from this project:
 The ARIMA model is able to forecast milk production with a relatively high accuracy.
 The accuracy of the ARIMA model can be improved by adjusting the model parameters.
 Time series forecasting can be a valuable tool for predicting future milk production.
+
